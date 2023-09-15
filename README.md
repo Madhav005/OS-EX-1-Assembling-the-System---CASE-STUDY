@@ -3,6 +3,7 @@
 ## AIM:
 To assemble the system
 
+## MATERIALS REQUIRED
 • Case
 
 • Motherboard
