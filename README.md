@@ -68,7 +68,7 @@ Step 5: Installing the Random-Access Memory (RAM)
 
 • Once installed close the clamps that house the RAM to secure. Refer to the motherboard’s manual for optimal placement of RAM
 
-![265320036-78b4b85d-7378-47b4-86c2-061860b55a94](https://github.com/Madhav005/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/110885274/574bb1be-5ed2-46fa-92f7-1bc7a1524603)
+
 
 
 Step 6: Installing additional cooling systems (optional)
@@ -79,7 +79,6 @@ Step 6: Installing additional cooling systems (optional)
 • Once the fans have been installed make sure to plug them into the fan headers on the motherboard to provide power, this is also where it might be useful to have zip ties for cord management to keep the interior looking neat.
 
 • This part only applies if you are using an all-in-one cooling system. Once you have your fans installed, attach the radiator to the main fans/fan, the radiator tends to be large, so you’ll want to make sure there is enough space for it.
-![265318503-7eb5f9b0-cbc4-4b22-b29d-7a92660cd8fe](https://github.com/Madhav005/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/110885274/9c36a8ef-9b4b-4bb2-b9fb-d83ee66493ad)
 
 
 
