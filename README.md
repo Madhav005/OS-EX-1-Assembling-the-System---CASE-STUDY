@@ -42,7 +42,8 @@ Step 2: Installing Motherboard
 • Gently grab the CPU avoiding the golden pins on the back side. Carefully place the CPU in the housing in the correct orientation which should be marked with a symbol or notches which are on both the CPU and motherboard. This should fit easily and shouldn’t need to be forced in the socket.
 
 • After the CPU is in the housing, close the latch on the housing. This part may need to be forced and some motherboards come with a plastic piece that will pop off the front once closed, this part should be saved.
-![265318110-e62bc316-966b-491d-9687-25780a7bbc82](https://github.com/Madhav005/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/110885274/877caa20-0222-4f1f-bc2a-04258ee6c186)
+![image](https://github.com/Madhav005/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/110885274/6f83f9ba-e614-4571-b3fd-747caf0280ce)
+
 
 Step 3: Applying Thermal Paste/ Installing the cooling system
 • After the CPU is installed apply a pea-sized amount of thermal paste directly in the center of the front of the CPU. If too much is applied, it will spill over and this can be cleaned with rubbing alcohol and a cotton swab/ paper towel.
@@ -50,7 +51,7 @@ Step 3: Applying Thermal Paste/ Installing the cooling system
 • After the paste is applied view the instructions that come with the cooling system to finish installation as all cooling systems differ based on the type of cooling being used.
 
 • Plug in the cooling system into the motherboard that is labeled ‘CPU fan’ or ‘CPU fan header’ to power the system, if an all-in-one system is being used there should be a place labeled ‘AIO pump’ to plug a second cable in to
-![265319766-751a41be-5fbe-4887-a0d2-bb2f840c02de](https://github.com/Madhav005/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/110885274/b02ce168-d477-41f6-8c5a-b3d6e8ef6d54)
+
 
 
 Step 4: Installing the Solid-State Drive (SSD) or Hard disk drive
